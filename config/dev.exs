@@ -4,7 +4,7 @@ use Mix.Config
 config :squad3be, Squad3be.Repo,
   username: "postgres",
   password: "postgres",
-  database: "squad3be_dev",
+  database: "squad3be_dev1",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
